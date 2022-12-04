@@ -1,4 +1,4 @@
-# DMDD Assignment 3 Sociable
+# DMDD Assignment 3 - Sociable
 
 # Team members: 
 
