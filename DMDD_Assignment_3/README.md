@@ -23,9 +23,10 @@
    Today we are in the 21st century, where we can see a steep rise in people migrating to different places for study, work, lifestyle, and travel. They find it difficult to socialize and make new friends. Moreover, it is a difficult and cumbersome experience to find people and groups with similar interests in a short span of time. Socialize presents its users to easily find like-minded people amongst unknowns, quickly socialize and join social groups, attend events, converse, etc. This project aims to gather data, analyze and recommend like-minded suggestions by analyzing people’s interests, and present statistics on the same.
    
    
-   ER and UML Diagrams : 
+   # ER and UML Diagrams : 
    
    These diagrams can be found in the "Diagrams folder"
+   https://github.com/HarshilaJagtap/Jagtap_Harshila_002743674_DMDD/tree/main/DMDD_Assignment_3/Diagrams
    
    # Prerequisite :
 
