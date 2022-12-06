@@ -40,7 +40,7 @@ Launch Anaconda
 
 Open Jupyter Notebook
 
-Import DMDD_Assignment_EDA_3.ipynb
+Import DMDD_EDA_Assignment_3.ipynb
 
 Run every step and check the output
 
