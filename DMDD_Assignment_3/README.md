@@ -37,7 +37,7 @@ Anaconda --> It shall have Jupyter Notebook
 Have the JSON files at a particular location stored locally. This local path shall be updated while running the code.
 Language Used : Python 3
 
-#Steps : (After having the Prerequiste installed)
+# Steps : (After having the Prerequiste installed)
 
 Clone repository. Use below https link https://github.com/HarshilaJagtap/Jagtap_Harshila_002743674_DMDD.git
 
